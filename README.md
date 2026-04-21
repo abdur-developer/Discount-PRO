@@ -1,16 +1,39 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Assignment-09-001
+Find out the requirement doc from any of the following links:
+Link1: https://docs.google.com/document/d/1f3tbugV_D0CATzbteer6reXLVWmtoAIIX4MaffV48kI/edit?usp=drive_link
 
-Currently, two official plugins are available:
+Alternative Link2: https://docs.google.com/document/d/12kC-xqzNkbCwVesKPPfMG8gZA3ADuk00yVSWjzkOBlY/edit?usp=drive_link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<hr/>
 
-## React Compiler
+Assignment-09-002
+Find out the requirement doc from any of the following links:
+Link1: https://docs.google.com/document/d/14uUAzQQPx9hz5fynr72vOX8vXT01t7gp7IFsjeg9sg4/edit?usp=drive_link
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Alternative Link2: https://docs.google.com/document/d/12wCc9X3gY40gPUDqDoEcMv7cJn3qubxNcuW4qM3FlIA/edit?usp=drive_link
 
-## Expanding the ESLint configuration
+<hr/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Assignment-09-003
+Find out the requirement doc from any of the following links:
+Link1: https://docs.google.com/document/d/1uck_6gjiW22ytQMUEdznPxuxX4XB9wDz6fHJroTqCps/edit?usp=drive_link
+
+Alternative Link2: https://docs.google.com/document/d/1BKueQQMgAm8tBDrEeC_g0VZw9Ls773p2oD9EAARLX3Y/edit?usp=drive_link
+
+<hr/>
+
+Assignment-09-004
+Find out the requirement doc from any of the following links:
+Link1: https://docs.google.com/document/d/1ErVVKPWEMzrmOn4bp18Vba0nfUpK-KZpqcTvSNffLKU/edit?usp=drive_link
+
+Alternative Link2: https://docs.google.com/document/d/1qQJHyVIB_Jdrxr9htu2ocB_b9__V9d6f_p-yjKrbMxM/edit?usp=drive_link
+
+<hr/>
+
+Assignment-09-005
+Find out the requirement doc from any of the following links:
+Link1: https://docs.google.com/document/d/1Ueydif7eXywT6rCkp2lF1Q85DjxgaNpQ60w5HDEIG8Y/edit?usp=drive_link
+
+Alternative Link2: https://docs.google.com/document/d/1YWZYI6XlNVApjpsZEdZQ_LymqOHSqjIMp-WbuCw7zs4/edit?usp=drive_link
